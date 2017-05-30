@@ -6,6 +6,8 @@
 #define SYMB 1 // symbols
 #define MDIA 2 // media keys
 
+// For details on key options take a look at this file: lib/firmware/quantum/keymap_common.h
+
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 /* Keymap 0: Basic layer
  *
